@@ -66,9 +66,9 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 ### 5️⃣ Update Wi-Fi Credentials
 Replace the placeholders in the code with your Wi-Fi network:
 
-```cpp
+`cpp
 const char* WIFI_SSID = "Your_SSID";
-const char* WIFI_PASS = "Your_PASSWORD";
+const char* WIFI_PASS = "Your_PASSWORD";`
 
 
 ---
